@@ -33,4 +33,4 @@ Just grab the included [AI file](./IllustratorAppIcons.ai) in this repo.
 9. Install your app and check that the icons are there. Note: if you've previously installed the app without icons on your device, you may need to delete and reinstall the app in order for the icons to show up.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Available under the MIT license. See the [LICENSE](./LICENSE.txt) file for more info.
