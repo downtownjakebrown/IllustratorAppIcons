@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/stargazers)
 [![Issues](https://img.shields.io/github/issues-raw/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/issues)
 [![Current Version](https://img.shields.io/github/v/release/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons)
-[![License](./LICENSE)
+[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](./LICENSE) 
 
 # Illustrator App Icon Template
 
@@ -28,7 +28,7 @@ Just grab the included [AI file](./IllustratorAppIcons.ai) in this repo.
    * "Select" all artboards.
    * "Export to" your preferred destination.
    * "Formats" should be just be a 1x scale PNG.  
-7. Click "Export Artboards" to output you app icon images (see [Example Output]("./ExampleOutputImages") for what to expect).
+7. Click "Export Artboards" to output you app icon images (see the Example Output directory in this repo for what to expect).
 8. Open your XCode project, then drag and drop the images into their respective positions in the AppIcons image set in Assets.xcassets.
 9. Install your app and check that the icons are there. Note: if you've previously installed the app without icons, you may need to delete and reinstall the app in order for the icons to show up.
 
