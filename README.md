@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/stargazers)
 [![Issues](https://img.shields.io/github/issues-raw/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/issues)
 [![Current Version](https://img.shields.io/github/v/release/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons)
-[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) 
+[![License](./LICENSE)
 
 # Illustrator App Icon Template
 
@@ -24,13 +24,13 @@ Just grab the included [AI file](./IllustratorAppIcons.ai) in this repo.
 3. Update the symbol with your app icon's content.
 4. When you're done, exit Symbol Editing Mode (by clicking the left-pointing arrow in the top left corner of the canvas). After exiting, you should see all the app icon instances on the canvas update with your new content.
 5. Time to export! Click File->Export->Export For Screens...
-6. In the artboards tab, choose the following options: 
+6. In the "Artboards" tab, choose the following options: 
    * "Select" all artboards.
    * "Export to" your preferred destination.
    * "Formats" should be just be a 1x scale PNG.  
 7. Click "Export Artboards" to output you app icon images (see [Example Output]("./ExampleOutputImages") for what to expect).
 8. Open your XCode project, then drag and drop the images into their respective positions in the AppIcons image set in Assets.xcassets.
-9. Install your app and check that the icons are there. Note: if you've previously installed the app without icons on your device, you may need to delete and reinstall the app in order for the icons to show up.
+9. Install your app and check that the icons are there. Note: if you've previously installed the app without icons, you may need to delete and reinstall the app in order for the icons to show up.
 
 ## License
-Available under the MIT license. See the [LICENSE](./LICENSE.txt) file for more info.
+Available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
