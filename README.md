@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/stargazers)
 [![Issues](https://img.shields.io/github/issues-raw/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons/issues)
-[![Current Version](https://img.shields.io/github/v/release/downtownjakebrown/IllustratorAppIcon)](https://github.com/downtownjakebrown/IllustratorAppIcons)
+[![Current Version](https://img.shields.io/github/v/release/downtownjakebrown/IllustratorAppIcons)](https://github.com/downtownjakebrown/IllustratorAppIcons)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](./LICENSE) 
 
 # Illustrator App Icon Template
